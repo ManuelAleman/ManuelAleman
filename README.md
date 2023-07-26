@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuelAleman
 - 👀 I’m interested in learning new programming techniques
-- 🌱 I’m currently learning c++, java, html/css/JS
+- 🌱 I’m currently learning Rust, c++, java, html/css/JS
 - 💞️ I’m looking to collaborate on some projects to learn new things
 - 📫 How to reach me ...
 
