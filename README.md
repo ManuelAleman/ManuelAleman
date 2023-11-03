@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed.png" alt="Hand with Index Finger and Thumb Crossed" width="25" height="25" />, I'm Manuel</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
