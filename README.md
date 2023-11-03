@@ -7,12 +7,10 @@
 <h3 align="center">A passionate developer from Mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="120" height="120">
 
 - 🌱 I’m currently learning **Rust, java, R**
-- 
 - 📫 How to reach me **www.linkedin.com/in/manuelalemanba**
-<img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="120" height="120">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manuelalemanba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelalemanba" height="30" width="40" /></a>
