@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelaleman&show_icons=true&theme=tokyonight&title_color=000000&text_color=2a2a2a&bg_color=88eec2&hide_border=true&locale=en&layout=compact" alt="manuelaleman" /></p>
  
-<img src="https://github.com/ManuelAleman/ManuelAleman/raw/main/assets/126043904/f0948021-fd17-4091-999d-abe5eb8da709" alt="Texto alternativo" width="40" height="40">
+<img src="https://github.com/ManuelAleman/ManuelAleman/raw/main/assets/126043904/f0948021-fd17-4091-999d-abe5eb8da709" alt="octocat" width="40" height="40">
 
 
 
