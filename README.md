@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manuelalemanba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelalemanba" height="30" width="40" /></a>
-<img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="30" height="40">
+<img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="50" height="80">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
