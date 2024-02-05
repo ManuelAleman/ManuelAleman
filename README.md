@@ -5,13 +5,15 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Index%20Finger%20and%20Thumb%20Crossed.png" alt="Hand with Index Finger and Thumb Crossed" width="40" height="40" />
 </h1>
 <h3 align="center">A passionate developer from Mexico</h3>
-
+<img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="50" height="80">
 
 - 🌱 I’m currently learning **Python, java, R**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manuelalemanba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuelalemanba" height="30" width="40" /></a>
-<img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="50" height="80">
+  <a>
+    <img src="https://github.com/ManuelAleman/ManuelAleman/assets/126043904/a4861a35-6761-49d4-81fa-23cb8121e34e" alt="octocat" width="50" height="80">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
