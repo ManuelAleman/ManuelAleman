@@ -12,7 +12,6 @@
 </p>
 
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manuelaleman&show_icons=true&theme=tokyonight&title_color=000000&text_color=2a2a2a&bg_color=88eec2&hide_border=true&locale=en&layout=compact" alt="manuelaleman" /></p>
  
 
