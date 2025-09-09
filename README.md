@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ManuelAleman/ManuelAleman/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ManuelAleman/ManuelAleman/blob/output/github-snake-dark.svg)
 
 ###
