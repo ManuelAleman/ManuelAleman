@@ -1,3 +1,6 @@
+<h1 align="left">
+  Welcome to my GitHub! I'm Manuel, a passionate developer exploring everything from backend systems to full-stack applications. Here you'll find some of my projects, experiments, and learning journeys.
+</h1>
 
 ###
 
