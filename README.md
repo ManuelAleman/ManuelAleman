@@ -45,8 +45,3 @@
 </div>
 
 ###
-
-![Pacman contribution graph dark](https://raw.githubusercontent.com/ManuelAleman/ManuelAleman/output/pacman-contribution-graph-dark.svg)
-
-
-###
