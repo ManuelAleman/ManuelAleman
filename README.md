@@ -46,3 +46,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/ManuelAleman/ManuelAleman/output/snake.svg" alt="Snake animation" />
+
+###
